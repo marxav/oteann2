@@ -1,6 +1,6 @@
 # OTEANN 
 
-This repository is the official implementation of [OTEANN: Estimating the Transparency of Orthographies with an Artificial Neural Network](https://arxiv.org/abs/2006.07573).
+This repository is the official implementation of [OTEANN: Estimating the Transparency of Orthographies with an Artificial Neural Network](https://arxiv.org/abs/1912.13321v2).
 
 ## Requirements
 
@@ -59,3 +59,15 @@ OTEANN achieves the following performance:
 
 OTEANN uses minGTPT (https://github.com/karpathy/minGPT) which is released under the MIT licence.
 
+## Citation
+This code was used for the following paper:
+```bibtex
+@misc{marjou2020oteann,
+      title={OTEANN: Estimating the Transparency of Orthographies with an Artificial Neural Network}, 
+      author={Xavier Marjou},
+      year={2020},
+      eprint={1912.13321},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
