@@ -18,7 +18,7 @@ This repository is the official implementation of [OTEANN: Estimating the Transp
 * Activate virtual environment
   * source oteann/bin/activate
 
-* Load the python librairies needed for GIPFA (e.g. numpy, pandas, torch...) from the requirements file
+* Load the python librairies needed for OTEANN (e.g. numpy, pandas, torch...) from the requirements file
   * python -m pip install -r requirements.txt
   
 * Download the subdatasets (required local free spacesize=334Mo)
@@ -66,7 +66,7 @@ This code was used for the following paper:
       title={OTEANN: Estimating the Transparency of Orthographies with an Artificial Neural Network}, 
       author={Xavier Marjou},
       year={2020},
-      eprint={1912.13321},
+      eprint={1912.13321v2},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
